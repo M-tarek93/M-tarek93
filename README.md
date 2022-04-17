@@ -1,5 +1,14 @@
-<h1 align="center">Hi, I'm Mohamed Tarek</h1>
-<h3 align="center">A passionate JS developer</h3>
+<h3 align="left">About me:</h3>
+
+```javascript
+const profile = {
+    name: 'Mohamed Tarek',
+    description: 'A passionate JS developer',
+    position: 'Full Stack Developer',
+    company: 'Fixed Solutions',
+    location: 'Egypt'
+};
+```
 
 ---
 <h3 align="left">Languages and Tools:</h3>
