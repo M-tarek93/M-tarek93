@@ -1,10 +1,11 @@
+
 <h3 align="left">About me:</h3>
 
 ```javascript
 const profile = {
     name: 'Mohamed Tarek',
     description: 'A passionate JS developer',
-    position: 'Full Stack Developer',
+    position: 'Senior Full Stack Developer',
     company: 'Fixed Solutions',
     location: 'Egypt'
 };
@@ -25,6 +26,18 @@ const profile = {
       height="40"
     />
   </a>
+    <a
+    href="https://www.typescriptlang.org"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/typescript.svg"
+      alt="TypeScript"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://nodejs.org/en/about/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
@@ -33,7 +46,15 @@ const profile = {
       height="40"
     />
   </a>
-  <a href="https://loopback.io/" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
+      alt="Express.js"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://loopback.io/" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/354016/loopback-icon.svg"
       alt="loopback"
@@ -41,10 +62,32 @@ const profile = {
       height="40"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"
+      alt="Nest.js"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://fastify.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://seeklogo.com/images/F/fastify-logo-4FA5E177B6-seeklogo.com.png"
+      alt="Fastify"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
+      alt="postgreSQL"
       width="40"
       height="40"
     />
@@ -117,6 +160,14 @@ const profile = {
     <img
       src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
       alt="react.js"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://angular.io.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg"
+      alt="angular.js"
       width="40"
       height="40"
     />
@@ -211,19 +262,8 @@ const profile = {
   /></a>
 </p>
 
----
-### Badges:
-
-<a href="https://archiveprogram.github.com/"><img
-    src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif"
-    width="40"
-    height="40"
-/></a>
-
 --- 
 ### Stats:
 #### [![trophy](https://github-profile-trophy.vercel.app/?username=m-tarek93)](https://github.com/ryo-ma/github-profile-trophy)
 #### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-tarek93)](https://github.com/anuraghazra/github-readme-stats)
-#### ![GitHub stats](https://github-readme-stats.vercel.app/api?username=m-tarek93&show_icons=true)
 #### ![GitHub metrics](https://metrics.lecoq.io/m-tarek93)
-![Profile views](https://gpvc.arturio.dev/m-tarek93)
