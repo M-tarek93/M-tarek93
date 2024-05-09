@@ -6,8 +6,8 @@ const profile = {
     name: 'Mohamed Tarek',
     description: 'A passionate JS developer',
     position: 'Senior Full Stack Developer',
-    company: 'Fixed Solutions',
-    location: 'Egypt'
+    company: 'Easygenerator',
+    location: 'Dubai, UAE'
 };
 ```
 
