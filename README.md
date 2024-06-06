@@ -262,8 +262,3 @@ const profile = {
   /></a>
 </p>
 
---- 
-### Stats:
-#### [![trophy](https://github-profile-trophy.vercel.app/?username=m-tarek93)](https://github.com/ryo-ma/github-profile-trophy)
-#### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-tarek93)](https://github.com/anuraghazra/github-readme-stats)
-#### ![GitHub metrics](https://metrics.lecoq.io/m-tarek93)
