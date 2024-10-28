@@ -1,13 +1,13 @@
 
 <h3 align="left">About me:</h3>
 
-```javascript
+```ts
 const profile = {
-    name: 'Mohamed Tarek',
-    description: 'A passionate JS developer',
-    position: 'Senior Full Stack Developer',
-    company: 'Easygenerator',
-    location: 'Dubai, UAE'
+  name: 'Mohamed Tarek',
+  description: 'A passionate JS/TS developer',
+  position: 'Senior Full Stack Developer',
+  company: 'Easygenerator',
+  location: 'Dubai, UAE'
 };
 ```
 
